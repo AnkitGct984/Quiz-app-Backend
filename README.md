@@ -12,7 +12,6 @@
 ## Setup Steps
 
 ### 1. Install dependencies
-npm install
 
 ### 2. Create a .env file
 Copy `.env.example` to `.env` and fill in the values:
@@ -23,8 +22,6 @@ Copy `.env.example` to `.env` and fill in the values:
 - `EMAIL_USER` / `EMAIL_PASS` -> Gmail app password, used for sending password reset emails
 
 ### 3. Run the server
-
-npm run dev
 
 ## Folder Structure
 quiz-app-backend/
